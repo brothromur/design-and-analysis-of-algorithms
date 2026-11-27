@@ -1,0 +1,38 @@
+# ---------- Compiled output ----------
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# ---------- Debug / build files ----------
+*.pdb
+*.ilk
+*.exp
+*.gch
+*.pch
+*.d
+build/
+bin/
+obj/
+Debug/
+Release/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# ---------- Editor settings ----------
+.vscode/
+.idea/
+*.code-workspace
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
+desktop.ini
