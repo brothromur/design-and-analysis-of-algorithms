@@ -9,6 +9,7 @@
 *.so
 *.dll
 *.dylib
+*.pyc
 
 # ---------- Debug / build files ----------
 *.pdb
